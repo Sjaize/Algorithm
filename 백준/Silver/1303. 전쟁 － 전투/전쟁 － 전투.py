@@ -1,5 +1,4 @@
 from sys import stdin
-
 input = stdin.readline
 
 # Depth-First-Search 알고리즘
